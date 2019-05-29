@@ -1,4 +1,4 @@
-import countdown from './components/countdown.vue';
+import countdown from './src/components/countdown';
 
 export default {
     install(Vue) {

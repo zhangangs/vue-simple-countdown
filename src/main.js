@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import simpleCountdown from './install.js'
+import simpleCountdown from '../index.js'
 Vue.use(simpleCountdown)
 
 Vue.config.productionTip = false
