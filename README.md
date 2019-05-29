@@ -16,7 +16,7 @@ import simpleCountdown from 'vue-simple-countdown'
 Vue.use(simpleCountdown)
 ```
 Use:
-```javascript
+```html
 <template>
   <div id="app">
     <simple-countdown class="btn-send" :count="60" @sendSms="sendSms"/>
