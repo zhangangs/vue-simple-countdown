@@ -2,7 +2,9 @@
 
 简单的vue倒计时功能
 
+## Demo
 ![](https://raw.githubusercontent.com/zhangangs/vue-simple-countdown/master/public/demo.gif)
+
 
 ## Install
 ```
@@ -29,6 +31,7 @@ Use:
       /> -->
   </div>
 </template>
+<script>
 export default {
   name: "app",
   methods: {
